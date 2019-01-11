@@ -29,6 +29,11 @@ body {
     max-width: 1000px;
     margin: 0 auto;
 }
+.container-2{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #EEE;
+}
 #header a {
     color: white;
     text-decoration: none;
